@@ -23,8 +23,9 @@ In this project, we explore the Cell2Cell dataset and build three supervised mac
  - Extend SHAP analysis
 
 
-📖 Jupyter Notebook: [GitHub](https://github.com/dpb24/customer-segmentation/blob/main/notebooks/Customer_Segmentation_for_XYZ_Entertainment.ipynb) | [CoLab](https://colab.research.google.com/drive/1riolBlBa0T5GyXE4dJXOTh7B0Bq_p01L) <br>
+📖 Jupyter Notebook: [GitHub](notebooks/cell2cell_customer_churn_v1.ipynb) | [CoLab](https://colab.research.google.com/drive/19w02yTrKmPHFSv-OwqHzBjbYtv3l_t-N) <br>
 
 <p align="center">
-    <img src="visuals/xgboost-confusion-matrix.png" width="800"/> 
+ <img src="visuals/shap_feature_comparison.png" width="800"/>
+ <img src="visuals/xgboost-confusion_matrix.png" width="800"/> 
 </p>
